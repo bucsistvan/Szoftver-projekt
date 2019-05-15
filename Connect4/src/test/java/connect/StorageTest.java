@@ -3,6 +3,7 @@ package connect;
 
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
+import model.Storage;
 import org.junit.jupiter.api.Test;
 
 

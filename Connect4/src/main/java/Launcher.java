@@ -1,4 +1,4 @@
-import connect.Main;
+import controller.Main;
 
 /**
  * Elindítja a játékot.
